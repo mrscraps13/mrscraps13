@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish M.
-- 👀 I’m exploring Ruby on Rails, HTML, CSS, JS, Terraform, GCP, AZURE, AWS
+- 👀 I’m exploring Ruby on Rails, HTML, CSS, JS, Terraform, GCP, AWS
 - 🌱 I’m currently learning RoR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me danxb47@icloud.com
