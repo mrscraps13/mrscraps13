@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danish M.
 - 👀 I’m exploring Python, Ruby on Rails, HTML, CSS, JS, Terraform, GCP, AWS
-- I’m currently learning Python, RoR
+- I’m currently learning Python, Django, RoR
 - How to reach me danxb47@icloud.com
 
 <!---
