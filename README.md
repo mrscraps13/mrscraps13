@@ -2,6 +2,9 @@
 - 👀 I’m exploring Python, Ruby on Rails, HTML, CSS, JS, Terraform, GCP, AWS
 - I’m currently learning Python, Django, RoR
 - How to reach me danxb47@icloud.com
+- Curious Inquisitor - by trial and error process: 
+- STOP.BREATHE.BREATHE AGAIN.CONTINUE
+
 
 <!---
 mrscraps13/mrscraps13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
