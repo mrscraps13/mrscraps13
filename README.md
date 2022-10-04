@@ -5,6 +5,7 @@
 - Curious Inquisitor - by trial and error process: 
 - STOP.BREATHE.BREATHE AGAIN.CONTINUE
 
+- mysite is incorrect www.damalpaha.com it should be damalpha! awaiting dns ownership
 
 <!---
 mrscraps13/mrscraps13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
