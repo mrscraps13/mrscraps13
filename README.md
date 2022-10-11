@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Danish M.
-- 👀 I’m exploring Python, Ruby on Rails, HTML, CSS, JS, Terraform, GCP, AWS
+- 👀 I’m exploring Python/Django, HTML, CSS, JS, Terraform, GCP, AWS
 - I’m currently learning Python, Django, RoR
 - How to reach me danxb47@icloud.com
 - Curious Inquisitor - by trial and error process: 
