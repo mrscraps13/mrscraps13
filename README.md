@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danish M.
 - 👀 I’m exploring Python/Django, HTML, CSS, JS, Terraform, GCP, AWS
 - I’m currently learning Python, Django, RoR
-- How to reach me danxb47@icloud.com
+- How to reach me danish@danishm.me
 - Curious Inquisitor - by trial and error process: 
 - STOP.BREATHE.BREATHE AGAIN.CONTINUE
 
