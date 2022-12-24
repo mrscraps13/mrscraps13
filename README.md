@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Danish M.
 - Projects/Hobbies:
--https://github.com/mrscraps13	-https://leetcode.com/danxb13	
-  -Civic Technology: [Ghost Busses]([url](https://ghostbuses.com/)) -www.damalpaha.com    
+- https://github.com/mrscraps13
+- https://leetcode.com/danxb13	
+- Civic Technology: [Ghost Busses]([url](https://ghostbuses.com/)) 
+- www.damalpaha.com    
 - How to reach me danish@danishm.me
 - Curious Inquisitor - by trial and error process: 
 - STOP.BREATHE.BREATHE AGAIN.CONTINUE
