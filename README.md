@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Danish M.
 - Projects/Hobbies:
 - https://leetcode.com/danxb13	
-- Civic Technology: [Ghost Busses]([url](https://ghostbuses.com/)) 
+- Civic Technology: Civi.social
 - www.damalpaha.com    
 - How to reach me danish@danishm.me
 - Curious Inquisitor - by trial and error process: 
