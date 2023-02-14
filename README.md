@@ -4,8 +4,6 @@
 - Civic Technology: Civi.social
 - www.damalpaha.com    
 - How to reach me danish@danishm.me
-- Curious Inquisitor - by trial and error process: 
-- STOP. BREATHE. BREATHE AGAIN. CONTINUE
 
 - mysite is incorrect www.damalpaha.com it should be damalpha! awaiting dns ownership
 
